@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Joe-jinwoo
-- 🌱 I’m currently learning c++ , unreal_engine
+- 
 -  🇰🇷
 
 <!---
